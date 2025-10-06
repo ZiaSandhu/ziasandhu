@@ -44,7 +44,7 @@ Currently working professionally while exploring new ways to blend **AI, automat
 
 ### 📊 GitHub Stats
 
-![Zia's GitHub stats](https://github-readme-stats-ziasandhu.vercel.app/api?username=ziasandhu&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
+![Zia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZiaSandhu&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiaSandhu&layout=compact&theme=tokyonight)
 
