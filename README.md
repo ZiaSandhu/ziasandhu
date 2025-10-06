@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Zia Jutt
+# 👋 Hey, I'm Zia
 
 I'm a **Full Stack Developer** passionate about building scalable web applications and intuitive user experiences.  
 Currently working professionally while exploring new ways to blend **AI, automation, and modern web tech**.
